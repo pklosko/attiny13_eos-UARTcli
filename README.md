@@ -50,6 +50,11 @@ Arduino IDE settings:
    
 ---
 
+Canon EOS Cable:
+   Cutted old Nokia 6210 headphones
+   
+---
+
 (c) 2019 Petr KLOSKO
  
  UART code and CLI based on 
