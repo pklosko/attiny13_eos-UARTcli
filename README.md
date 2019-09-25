@@ -2,6 +2,8 @@
 
 ATTiny13 - Cannon EOS Shutter Timer
 
+![Alt text](thumb_attiny13_eos-UARTcli.jpg?raw=true "ATTiny13 - Cannon EOS Shutter Timer")
+
 ---
 
 Main goal :
