@@ -1,12 +1,12 @@
 # attiny13_eos-UART
 
-ATTiny13 - Cannon EOS Shutter Timer
+**ATTiny13 - Cannon EOS Shutter Timer**
 
 ![Alt text](thumb_attiny13_eos-UARTcli.jpg?raw=true "ATTiny13 - Cannon EOS Shutter Timer")
 
 ---
 
-Main goal :
+**Main goal :**
 Set Focus and Interval by UART [8N1, 19200, see uart.h] - Android/iOS Phone, Serial USB Terminal + OTG + CH340; 
 Start loop=Timer.
 
@@ -15,7 +15,7 @@ Feature (due to memory availability after 1st version :) ) :
 J1 [PB1] Jumper
 Active   = GoTo Loop(Timer) w/ default values = I5, F1 ; Inactive = GoTo CLI
 
-CLI Commands :
+**CLI Commands :**
 
 f    = Show Focus
 
@@ -43,7 +43,7 @@ Unknown commands
 
 ---
 
-Arduino IDE settings:
+**Arduino IDE settings:**
 
    ATtiny13, 
    1.2MHz internal; 
@@ -52,14 +52,14 @@ Arduino IDE settings:
    
 ---
 
-Canon EOS Cable:
+**Canon EOS Cable:**
    Cutted old Nokia 6210 headphones
    
 ---
 
-(c) 2019 Petr KLOSKO
+**(c) 2019 Petr KLOSKO**
  
  UART code and CLI based on 
       ATtiny13/021 -  Simple text CLI (Command Line Interface) via UART.
-      by Łukasz Podkalicki <lpodkalicki@gmail.com>
+      by Łukasz Podkalicki <lpodkalicki@gmail.com> @lpodkalicki
       [https://blog.podkalicki.com/100-projects-on-attiny13/]
